@@ -1,5 +1,15 @@
 # Netflix Hidden Categories
 
+Thanks To : http://whatsonnetflix.com/netflix-hacks/the-netflix-id-bible-every-category-on-netflix/
+
+
+FOR USERS :
+
+open "netflix-hidden-categories.crx" with chrome
+
+
+FOR DEVELOPPERS :
+
 ![alt tag](https://cloud.githubusercontent.com/assets/1588586/12432072/5ab941e2-bef9-11e5-8b8d-fc14bb087987.png)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/1588586/12433054/2f416fde-beff-11e5-8bae-eec6e331e570.png)
