@@ -249,11 +249,11 @@ if (document.title.indexOf("Netflix") != -1) {
   // });
     
   function addCategories(){
-    $('li.active.hasSubMenu.browse').unbind("DOMSubtreeModified");
-    if($('.sub-menu-list').length > 0){
-      $('.sub-menu').append(group);
+    $('.hdSpace li.active.hasSubMenu.browse').unbind("DOMSubtreeModified");
+    if($('.hdSpace .sub-menu-list').length > 0){
+      $('.hdSpace .sub-menu').append(group);
     }
-    $('li.active.hasSubMenu.browse').bind("DOMSubtreeModified", addCategories);
+    $('.hdSpace li.active.hasSubMenu.browse').bind("DOMSubtreeModified", addCategories);
   }
 
   addCategories();
