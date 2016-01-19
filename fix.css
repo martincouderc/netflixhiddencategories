@@ -1,0 +1,10 @@
+.sub-menu{
+  width: 880px;
+  max-height: 600px;
+  overflow: scroll;
+}
+
+.sub-menu .sub-menu-list-special.multi-column, .sub-menu .sub-menu-list.multi-column{
+  display: block;
+  float: left;
+}
