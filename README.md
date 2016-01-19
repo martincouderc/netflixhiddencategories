@@ -2,7 +2,9 @@
 
 ![alt tag](https://cloud.githubusercontent.com/assets/1588586/12432072/5ab941e2-bef9-11e5-8b8d-fc14bb087987.png)
 
-Thanks To : http://whatsonnetflix.com/netflix-hacks/the-netflix-id-bible-every-category-on-netflix/
+Thanks To :
+- http://mashable.com/2016/01/11/netflix-search-codes/#8iQ8_ycNEZqb
+- http://whatsonnetflix.com/netflix-hacks/the-netflix-id-bible-every-category-on-netflix/
 
 
 FOR USERS :
