@@ -1,13 +1,13 @@
 {
-"name":"Hidden Categories for Netflix",
+"name":"Netflix Hidden Categories",
 "description":"Display all hidden categories in the Netflix menu",
 "version":"1",
 "manifest_version":2,
 "content_scripts": [
     {
       "matches": ["http://www.netflix.com/*","https://www.netflix.com/*"],
-      "css": ["fix.css"],
-      "js": ["jquery-2.2.0.min.js", "myscript.js"]
+      "css": ["nhc-style.css"],
+      "js": ["jquery-2.2.0.min.js", "nhc-script.js"]
     }
   ]
 }
