@@ -251,7 +251,10 @@ if (document.title.indexOf("Netflix") != -1) {
   function addCategories(){
     $('.hdSpace li.active.hasSubMenu.browse').unbind("DOMSubtreeModified");
     if($('.hdSpace .sub-menu-list').length > 0){
+      $('body').css('overflow', 'hidden');
       $('.hdSpace .sub-menu').append(group);
+    }else{
+      $('body').css('overflow', '');
     }
     $('.hdSpace li.active.hasSubMenu.browse').bind("DOMSubtreeModified", addCategories);
   }
