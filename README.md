@@ -14,7 +14,7 @@ Thanks To :
 
 ![alt tag](https://cloud.githubusercontent.com/assets/1588586/12433054/2f416fde-beff-11e5-8bae-eec6e331e570.png)
 
-drag and drop "netflix-hidden-categories.crx" on the extension screen of Google Chrome.
+- Drag and drop "netflix-hidden-categories.crx" on the extension screen of Google Chrome.
 
 
 ### DEVELOPPERS
@@ -30,6 +30,6 @@ drag and drop "netflix-hidden-categories.crx" on the extension screen of Google 
 
 ## Acknowledgements
 
-Netflix Hidden Categories is a project by Martin Couderc
-Netflix Hidden Categories is not affiliated with Netflix
-Netflix is a trademark of Netflix, registered in the U.S. and other countries.
+- Netflix Hidden Categories is a project by Martin Couderc
+- Netflix Hidden Categories is not affiliated with Netflix
+- Netflix is a trademark of Netflix, registered in the U.S. and other countries.
